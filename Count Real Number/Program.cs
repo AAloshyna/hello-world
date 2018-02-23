@@ -10,7 +10,7 @@ namespace ShortWordsSorted
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Enter text:");
             var part = Console.ReadLine().ToLower().Split('.', ',', ':', ';', '(', ')', '[', ']', '“', '‘', '\\', '/', '!', '?', ' ').Distinct().Where(i => i.Length < 5);
             IEnumerable<string> word = from p in part orderby p select p;
             foreach (string i in word)

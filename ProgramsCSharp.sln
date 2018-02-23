@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortWordsSorted", "Count R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_Min_Max_Average", "Sum_Min_Max_Average\Sum_Min_Max_Average.csproj", "{9B78155E-2F21-4D29-9D5B-358582420772}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTask_Count Real Number", "RealTask_Count Real Number\RealTask_Count Real Number.csproj", "{ADA9DB95-9228-41B3-BF83-7F72A6EDF4D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Real Number", "RealTask_Count Real Number\Count Real Number.csproj", "{ADA9DB95-9228-41B3-BF83-7F72A6EDF4D7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest3numbers", "Largest3numbers\Largest3numbers.csproj", "{9ED22642-561A-4751-A5EA-26DF49A554D2}"
 EndProject
