@@ -14,6 +14,7 @@ namespace ShortWordsSorted
             IEnumerable<string> word = from p in part orderby p select p;
             foreach (string i in word)
             {
+
                 Console.WriteLine(i + ", ");
             }
             Console.ReadKey();
