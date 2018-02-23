@@ -1,0 +1,7 @@
+C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Largest3numbers\bin\Debug\Largest3numbers.exe.config
+C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Largest3numbers\bin\Debug\Largest3numbers.exe
+C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Largest3numbers\bin\Debug\Largest3numbers.pdb
+C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Largest3numbers\obj\Debug\Largest3numbers.csprojResolveAssemblyReference.cache
+C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Largest3numbers\obj\Debug\Largest3numbers.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Largest3numbers\obj\Debug\Largest3numbers.exe
+C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Largest3numbers\obj\Debug\Largest3numbers.pdb
