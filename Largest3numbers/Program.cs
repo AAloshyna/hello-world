@@ -10,24 +10,25 @@ namespace Largest3numbers
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[10];
+           
+            List<int> arr = new List<int>();
             Random r = new Random();
-            for (int i = 0; i < arr.Count(); i++)
+            //int[] arr = new int[10];
+
+            for (int i = 0; i < 20; i++)
             {
-                arr[i] = r.Next(0, 10);
-                Console.Write(arr[i] + " ");
+                arr.Add(r.Next(0, 10));
+                //arr[i] = r.Next(0, 10);
+                Console.Write("{0} ", arr[i]);
+                //Console.Write(arr[i] + " ");
 
             }
 
-            var arrList = arr.Where(t=>t).OrderByDescending(t => t).Take(3).ToList();
-            foreach (int i in arr)
+            var biggerThree = arr.OrderByDescending(t => t).Take(3).ToList();
+            Console.WriteLine("\nLargest 3 numbers");
+            foreach (var i in biggerThree)
                 Console.WriteLine(i);
-
-            //for (int i = 0; i < 3; i++)
-            //    Console.Write(arrList[i] + " ");
-
-
-            Console.ReadKey();
+                Console.ReadKey();
         }
     }
 }

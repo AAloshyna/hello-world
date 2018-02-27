@@ -1,0 +1,7 @@
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\RealTask_Count Real Number\bin\Debug\RealTask_Count Real Number.exe.config
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\RealTask_Count Real Number\bin\Debug\RealTask_Count Real Number.exe
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\RealTask_Count Real Number\bin\Debug\RealTask_Count Real Number.pdb
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\RealTask_Count Real Number\obj\Debug\Count Real Number.csprojResolveAssemblyReference.cache
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\RealTask_Count Real Number\obj\Debug\Count Real Number.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\RealTask_Count Real Number\obj\Debug\RealTask_Count Real Number.exe
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\RealTask_Count Real Number\obj\Debug\RealTask_Count Real Number.pdb
