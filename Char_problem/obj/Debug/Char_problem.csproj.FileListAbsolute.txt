@@ -1,0 +1,7 @@
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Char_problem\bin\Debug\Char_problem.exe.config
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Char_problem\bin\Debug\Char_problem.exe
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Char_problem\bin\Debug\Char_problem.pdb
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Char_problem\obj\Debug\Char_problem.csprojResolveAssemblyReference.cache
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Char_problem\obj\Debug\Char_problem.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Char_problem\obj\Debug\Char_problem.exe
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Char_problem\obj\Debug\Char_problem.pdb

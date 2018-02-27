@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest3numbers", "Largest3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Int_50_problem", "Int_50_problem\Int_50_problem.csproj", "{ABE1743D-2D32-4E0D-977D-C82554592068}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Char_problem", "Char_problem\Char_problem.csproj", "{F1576DC4-6B64-44DD-AF17-C9AD03E3CF81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{ABE1743D-2D32-4E0D-977D-C82554592068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABE1743D-2D32-4E0D-977D-C82554592068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABE1743D-2D32-4E0D-977D-C82554592068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1576DC4-6B64-44DD-AF17-C9AD03E3CF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1576DC4-6B64-44DD-AF17-C9AD03E3CF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1576DC4-6B64-44DD-AF17-C9AD03E3CF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1576DC4-6B64-44DD-AF17-C9AD03E3CF81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
