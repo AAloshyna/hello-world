@@ -1,0 +1,7 @@
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Invoice\bin\Debug\Invoice.exe
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Invoice\obj\Debug\Invoice.exe
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Invoice\obj\Debug\Invoice.pdb
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache

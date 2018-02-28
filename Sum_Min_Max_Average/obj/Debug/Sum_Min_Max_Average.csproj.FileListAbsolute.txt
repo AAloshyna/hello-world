@@ -4,3 +4,4 @@ C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Sum_Min_Max_Average\bin\De
 C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Sum_Min_Max_Average\obj\Debug\Sum_Min_Max_Average.csproj.CoreCompileInputs.cache
 C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Sum_Min_Max_Average\obj\Debug\Sum_Min_Max_Average.exe
 C:\Users\Anastasiia_Aloshyna\Source\Repos\hello-world\Sum_Min_Max_Average\obj\Debug\Sum_Min_Max_Average.pdb
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Sum_Min_Max_Average\obj\Debug\Sum_Min_Max_Average.csprojResolveAssemblyReference.cache

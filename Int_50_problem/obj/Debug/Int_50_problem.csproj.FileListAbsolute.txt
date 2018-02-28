@@ -4,3 +4,4 @@ C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Int_50_problem\bin\Debug\I
 C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Int_50_problem\obj\Debug\Int_50_problem.csproj.CoreCompileInputs.cache
 C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Int_50_problem\obj\Debug\Int_50_problem.exe
 C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Int_50_problem\obj\Debug\Int_50_problem.pdb
+C:\Users\Anastasiia_Aloshyna\source\repos\hello-world\Int_50_problem\obj\Debug\Int_50_problem.csprojResolveAssemblyReference.cache
